@@ -17,10 +17,10 @@ This project is an advanced **Spam Email Detection System** that classifies emai
 **Accuracy: 98.09%**
 
 ### Confusion Matrix:
-![Confusion Matrix](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/confusion_matrix.png)
+![Confusion Matrix](https://github.com/peekayitachi/Spam-Detection/blob/main/Screenshot%202025-03-07%20040036.png)
 
 ### Accuracy Report:
-![Accuracy Score](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/accuracy_score.png)
+![Accuracy Score](https://github.com/peekayitachi/Spam-Detection/blob/main/Screenshot%202025-03-07%20040105.png))
 
 ---
 
@@ -28,5 +28,5 @@ This project is an advanced **Spam Email Detection System** that classifies emai
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone (https://github.com/peekayitachi/Spam-Detection).git
+cd Spam-Detection
