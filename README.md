@@ -30,3 +30,31 @@ This project is an advanced **Spam Email Detection System** that classifies emai
 ```bash
 git clone (https://github.com/peekayitachi/Spam-Detection).git
 cd Spam-Detection
+```
+---
+
+## 🚀 Future Features & Improvements
+
+### **Real-Time Email Monitoring**
+- Integrate with **Gmail API** to scan incoming emails.
+- Automatically classify **spam vs. non-spam** in real-time.
+
+### **Advanced Image Preprocessing for OCR**
+- Use **OpenCV** to **enhance text quality** in screenshots.
+- Improve OCR accuracy for blurry images.
+
+### **Explainability: Why is it Spam?**
+- Show **top keywords** responsible for spam classification.
+- Display **spam probability score**.
+
+### **Multi-Language Spam Detection**
+- Add **multi-language support** (Hindi, Spanish, etc.).
+- Use **Google Translate API** to handle non-English emails.
+
+### **Faster Predictions with ONNX**
+- Convert **XGBoost to ONNX format** for **faster inference**.
+- Optimize model execution speed for real-time classification.
+
+
+## 👨‍💻 Want to Contribute?
+If you have more ideas, feel free to **open an issue** or **submit a pull request**! 🚀
